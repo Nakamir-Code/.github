@@ -1,4 +1,4 @@
-![nakamir](nakamir.png)
+![nakamir logo](https://github.com/Nakamir-Code/.github/blob/main/profile/nakamir.png)
 
 ## Our Vision
 We are reinventing teaching and learning by using the power of Augmented Reality and AI to create a personal expert for everyone, anytime and anywhere.

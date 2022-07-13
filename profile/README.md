@@ -1,5 +1,6 @@
-## Hi there 👋
+## Nakamir
 
+We are reinventing teaching and learning by using the power of Augmented Reality and AI to create a personal expert for everyone, anytime and anywhere.
 <!--
 
 **Here are some ideas to get you started:**
